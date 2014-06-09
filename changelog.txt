@@ -1,0 +1,3 @@
+version 0.0.1
+	poisoned versions of basic ammo, piercing ammo, rocket, basic shotgun shells and piercing shotgun shells.
+
